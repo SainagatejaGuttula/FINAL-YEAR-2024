@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+shap==0.44.1
+tensorflow==2.8.0
+streamlit
+Pillow
+matplotlib
